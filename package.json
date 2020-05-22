@@ -1,0 +1,20 @@
+{
+  "name": "point-in-cirlce",
+  "version": "1.0.0",
+  "description": "A npm package to check if a geo-coordinate point is within a cirlce, given its geographical center (latitude and longitude)  and the radius. The function can take in Geo-Coordinates and can be used to test if a point is in a particular GeoFence or a Geoboundary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Point in Circle", "Circular Geofence", "GeoBoundary","Geofence"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/nxncode/geo-point-in-circle.git"
+  },
+  "author": "Nixon Augustine",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
